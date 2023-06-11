@@ -1,2 +1,2 @@
 # GitHub-Profiles
-A github profile Finder
+A Javascript github profile Finder App
